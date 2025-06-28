@@ -1,10 +1,10 @@
-# Katti Harini - Portfolio Website
+# Katti Harini - Finance AI
 
 > "A Good Engineer is a Person Who Makes a Design That Works With as Few Original Ideas as Possible"
 
 A modern portfolio website showcasing my skills as a Full-Stack Developer and Machine Learning Enthusiast.
 
-## 📸 Portfolio Screenshots
+## 📸 Finance AI
 
 ### Hero Section
 ![Portfolio Hero](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/port1-tNQXbbb9j3G2YDDVDeGNff4UGlOGmj.png)
